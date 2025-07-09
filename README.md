@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Tanish Mehta
 
-**🎓 Driven Computer Science Undergrad | Turning ideas into code**
+**🎓 Driven Computer Science Undergrad | Turning Ideas into Code**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.tanish._23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-mehta-43bb102b8) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Tanish-Mehta-52) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanish.mehta23@gmail.com) 
