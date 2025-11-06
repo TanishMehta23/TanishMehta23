@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Tanish Mehta
+# Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tanish Mehta
 
 **💻 Frontend Developer | 📘 DSA in Java | 🚀 Computer Science Undergrad**
 
